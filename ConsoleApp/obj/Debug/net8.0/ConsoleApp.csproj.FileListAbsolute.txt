@@ -1,0 +1,72 @@
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.pdb
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Sklad\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\bin\Debug\net8.0\Infrastucture.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

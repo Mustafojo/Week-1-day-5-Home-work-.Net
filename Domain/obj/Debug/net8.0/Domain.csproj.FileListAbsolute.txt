@@ -1,0 +1,36 @@
+C:\Users\Hp\Desktop\Sklad\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Hp\Desktop\Sklad\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Hp\Desktop\Sklad\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Hp\Desktop\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Shodmon\Downloads\Telegram Desktop\Sklad\Sklad\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 5\Home work\Sklad\Domain\obj\Debug\net8.0\ref\Domain.dll

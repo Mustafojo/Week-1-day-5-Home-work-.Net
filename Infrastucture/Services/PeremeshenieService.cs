@@ -5,23 +5,23 @@ using Dapper;
 using DataContext;
 using Domain.Models;
 
-public class PeremeshenieService
+public class MovingService
 {
 
     
      private readonly DapperContext _context;
 
-     public PeremeshenieService()
+     public MovingService()
      {
-        _context=new DapperContext();
+        _context = new DapperContext();
      }
-
-     public List<Peremeshenie> GetPeremesheniesbyTime(DateTime date)
+     
+     public List<Moving> GetPeremesheniesbyTime(DateTime date)
      {
-       var sql =" select * from Peremeshenie where data_peremeshenie >' @date'";
+       var sql =" select * from Moving where data_peremeshenie >' @date'";
 
 
-        return _context.Connection().Query<Peremeshenie>(sql,new{Date=date}).ToList();
+        return _context.Connection().Query<Moving>(sql,new{Date=date}).ToList();
      }
      
 
